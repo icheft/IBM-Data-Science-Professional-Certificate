@@ -29,8 +29,11 @@ Pull requests should be used in a regular bases.
 
 And can delete the branch after there is no need for further changes. 
 
+
+
 ## Git and GitHub via command line 
 
 ## Branching and Merging via Command Line
 
 ## Contributing to Repositories via Pull Request
+Still have to go onto the GitHub website and manually pull request to other repositories.
