@@ -24,6 +24,8 @@ It helps you understand the quality and distribution of your data with built-in 
     + Developer
     + Business Analyst
 
+
+
 ## Creating an Account on IBM Watson Studio
 
 
