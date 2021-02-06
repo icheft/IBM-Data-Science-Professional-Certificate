@@ -168,6 +168,12 @@ select E.EMP_ID, D.DEP_ID_DEP from employees E, departments D
     where E.DEP_ID = D.DEP_ID_DEP
 ```
 
+This also works:
+```sql
+SELECT F_NAME, DEP_NAME FROM EMPLOYEES, DEPARTMENTS WHERE DEPT_ID_DEP = DEP_ID
+
+```
+
 ## Lab
 ### Part A: Sub-Queries and Nested-Selects
 -- Query A1: Enter a failing (i.e. which gives an error) to retrieve all employees whose salary is greater than the average salary
