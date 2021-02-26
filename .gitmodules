@@ -1,3 +1,6 @@
 [submodule "10 - Applied Data Science Capstone/Capstone Project"]
 	path = 10 - Applied Data Science Capstone/Capstone Project
 	url = https://github.com/icheft/IBM-Applied-Data-Science-Capstone
+[submodule "08 - Data Visualization with Python/Week 5 - Final Project/src"]
+	path = 08 - Data Visualization with Python/Week 5 - Final Project/src
+	url = https://github.com/icheft/US-Domestic-Airline-Flights-Performance
