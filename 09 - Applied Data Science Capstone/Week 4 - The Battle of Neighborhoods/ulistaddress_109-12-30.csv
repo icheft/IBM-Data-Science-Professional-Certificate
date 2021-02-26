@@ -1,0 +1,162 @@
+﻿序號,"學校代碼",公私立,體制,學校名稱,學校英文名稱,職稱,姓名,縣市別,"第三級行政區","郵遞區號",學校地址,學校總機,學校傳真,網址
+1,0001,公立,一般大學,國立政治大學,National Chengchi Universerity,校長,郭明政,臺北市,文山區,11605,臺北市文山區指南路2段64號,02-2939-3091,02-2937-9611,http://www.nccu.edu.tw
+2,0002,公立,一般大學,國立清華大學,National Tsing Hua University,校長,賀陳弘,新竹市,新竹市,30013,新竹市光復路2段101號,03-571-5131,03-572-4038,http://www.nthu.edu.tw
+3,0003,公立,一般大學,國立臺灣大學,NATIONAL TAIWAN UNIVERSITY,校長,管中閔,臺北市,大安區,10617,臺北市大安區羅斯福路4段1號,02-3366-3366,02-2362-7651,http://www.ntu.edu.tw
+4,0004,公立,一般大學,國立臺灣師範大學,National Taiwan Normal University,校長,吳正己,臺北市,大安區,10610,臺北市大安區和平東路1段162號,02-7749-1111,無,http://www.ntnu.edu.tw
+5,0005,公立,一般大學,國立成功大學,National Cheng Kung University,校長,蘇慧貞,臺南市,東　區,70101,臺南市東區大學路1號,06-275-7575,06-276-6462,http://www.ncku.edu.tw
+6,0006,公立,一般大學,國立中興大學,National Chung Hsing University,校長,薛富盛,臺中市,南　區,40227,台中市南區興大路145號,04-2287-3181,04-2287-3702,http://www.nchu.edu.tw/index1.php
+7,0007,公立,一般大學,國立交通大學,National Chiao Tung University,校長,陳信宏代理,新竹市,新竹市,30010,新竹市大學路1001號,03-571-2121,03-573-1776,http://www.nctu.edu.tw/
+8,0008,公立,一般大學,國立中央大學,National Central University,校長,周景揚,桃園市,中壢區,32001,桃園市中壢區中大路300號,03-422-7151,03-425-4842,http://www.ncu.edu.tw
+9,0009,公立,一般大學,國立中山大學,National Sun Yat-sen University,校長,鄭英耀,高雄市,鼓山區,80424,高雄市鼓山區蓮海路70號,07-525-2000,07-525-0227,http://www.nsysu.edu.tw
+10,0012,公立,一般大學,國立臺灣海洋大學,National Taiwan Ocean University,校長,許泰文,基隆市,中正區,20224,基隆市北寧路2號,02-2462-2192,02-2462-0724,http://www.ntou.edu.tw
+11,0013,公立,一般大學,國立中正大學,National Chung Cheng University,校長,馮展華,嘉義縣,民雄鄉,62102,嘉義縣民雄鄉大學路168號,05-272-0411,05-272-0401,http://www.ccu.edu.tw
+12,0014,公立,一般大學,國立高雄師範大學,National Kaohsiung Normal University,校長,吳連賞,高雄市,苓雅區,80201,高雄市苓雅區和平一路116號,07-717-2930,07-605-1022,http://www.nknu.edu.tw
+13,0015,公立,一般大學,國立彰化師範大學,National Changhua University of Education,校長,陳明飛,彰化縣,彰化市,50007,彰化市進德路1號,04-723-2105,04-721-1098,http://www.ncue.edu.tw
+14,0016,公立,一般大學,國立陽明大學,National Yang-Ming University,校長,郭旭崧,臺北市,北投區,11221,臺北市北投區立農街2段155號,02-2826-7000,02-2825-0936,http://www.ym.edu.tw
+15,0017,公立,一般大學,國立臺北大學,NATIONAL TAIPEI UNIVERSITY,校長,李承嘉,新北市,三峽區,23741,新北市三峽區大學路151號,02-8674-1111,02-8671-8000,http://www.ntpu.edu.tw/
+16,0018,公立,一般大學,國立嘉義大學,National Chiayi University,校長,艾群,嘉義市,嘉義市,60004,嘉義市東區鹿寮里學府路300號,05-271-7000,05-271-7095,http://www.ncyu.edu.tw
+17,0019,公立,一般大學,國立高雄大學,National University of Kaohsiung,校長,莊寶鵰代理,高雄市,楠梓區,81148,高雄市楠梓區高雄大學路700號,07-591-9000,07-591-9083,http://www.nuk.edu.tw
+18,0020,公立,一般大學,國立東華大學,National Dong Hwa University,校長,趙涵?,花蓮縣,壽豐鄉,97401,花蓮縣壽豐鄉志學村大學路2段1號,03-890-3000,03-890-0111,https://www.ndhu.edu.tw
+19,0021,公立,一般大學,國立暨南國際大學,National Chi Nan University,校長,蘇玉龍,南投縣,埔里鎮,54561,南投縣埔里鎮大學路1號,049-291-0960,049-291-0413,http://www.ncnu.edu.tw
+20,0022,公立,技專校院,國立臺灣科技大學,National Taiwan University of Science and Technology,校長,廖慶榮,臺北市,大安區,10607,臺北市大安區基隆路四段43號,02-2733-3141,02-2733-1044,https://www.ntust.edu.tw/home.php
+21,0023,公立,技專校院,國立雲林科技大學,National Yunlin University of Science & Technology,校長,楊能舒,雲林縣,斗六市,64002,雲林縣斗六市大學路三段123號,05-534-2601,05-532-1719,http://www.yuntech.edu.tw/
+22,0024,公立,技專校院,國立屏東科技大學,National Pingtung University of Science and Technology,校長,戴昌賢,屏東縣,內埔鄉,91201,屏東縣內埔鄉老埤村學府路1號,08-770-3202,08-770-2226,http://www.npust.edu.tw
+23,0025,公立,技專校院,國立臺北科技大學,National Taipei University of Technology,校長,王錫福,臺北市,大安區,10608,臺北市忠孝東路三段1號,02-2771-2171,02-2781-5578,http://WWW.NTUT.EDU.TW/
+24,0028,公立,一般大學,國立臺北藝術大學,Taipei National University of the Arts,校長,陳愷璜,臺北市,北投區,11201,臺北市北投區學園路1號,02-2896-1000,02-2893-8845,http://www.tnua.edu.tw
+25,0029,公立,一般大學,國立臺灣藝術大學,National Taiwan University of Arts,校長,陳志誠,新北市,板橋區,22058,新北市板橋區大觀路1段59號,02-2272-2181,02-2969-4830,http://www.ntua.edu.tw
+26,0030,公立,一般大學,國立臺東大學,National Taitung University,校長,曾耀銘,臺東縣,臺東市,95092,臺東市大學路二段369號,089-318-855,089-517-316,http://www.nttu.edu.tw
+27,0031,公立,一般大學,國立宜蘭大學,National Ilan University,校長,吳柏青,宜蘭縣,宜蘭市,26047,宜蘭縣宜蘭市神農路1段1號,03-935-7400,03-935-9339,http://www.niu.edu.tw
+28,0032,公立,一般大學,國立聯合大學,National United University,校長,李偉賢,苗栗縣,苗栗市,36063,苗栗縣苗栗市南勢里聯大二號,037-382-000,037-331-165,http://www.nuu.edu.tw
+29,0033,公立,技專校院,國立虎尾科技大學,National Formosa University,校長,覺文郁,雲林縣,虎尾鎮,63201,雲林縣虎尾鎮文化路64號,05-631-5000,05-631-5999,http://www.nfu.edu.tw/
+30,0035,公立,一般大學,國立臺南藝術大學,Tainan National University of the Arts,校長,詹景裕,臺南市,官田區,72045,臺南市官田區大崎里大崎66號,06-693-0100,06-693-0121,http://www.tnnua.edu.tw
+31,0036,公立,一般大學,國立臺南大學,National University of Tainan,校長,黃宗顯,臺南市,中西區,70005,臺南市中西區樹林街2段33號,06-213-3111,06-214-4409,http://www.nutn.edu.tw/
+32,0037,公立,一般大學,國立臺北教育大學,National Taipei University of Education,校長,陳慶和,臺北市,大安區,10671,臺北市和平東路2段134號,02-2732-1104,02-2733-0473,http://www.ntue.edu.tw
+33,0039,公立,一般大學,國立臺中教育大學,National Taichung University of Education,校長,王如哲,臺中市,西　區,40306,臺中市西區民生路140號,04-2218-3199,04-2218-3180,http://www.ntcu.edu.tw
+34,0042,公立,技專校院,國立澎湖科技大學,National Penghu University of Science and Technology,校長,翁進坪,澎湖縣,馬公市,88046,澎湖縣馬公市六合路300號,06-926-4115,06-926-4265,http://WWW.NPU.EDU.TW
+35,0043,公立,技專校院,國立勤益科技大學,National Chin-Yi University of Technology,校長,陳文淵,臺中市,太平區,41170,臺中市太平區坪林里中山路二段57號,04-2392-4505,04-2393-0062,http://web2.ncut.edu.tw/bin/home.php
+36,0044,公立,一般大學,國立體育大學,National Taiwan Sport University,校長,邱炳坤,桃園市,龜山區,33301,桃園市龜山區文化一路250號,03-328-3201,03-328-4047,http://www.ntsu.edu.tw
+37,0046,公立,技專校院,國立臺北護理健康大學,National Taipei University of Nursing and Health Sciences,校長,謝楠楨,臺北市,北投區,11219,臺北市北投區明德路365號,02-2822-7101,02-2822-9389,http://www.ntunhs.edu.tw/
+38,0047,公立,技專校院,國立高雄餐旅大學,National Kaohsiung University of Hospitality and Tourism,校長,楊政樺代理,高雄市,小港區,81271,高雄市小港區松和路1號,07-806-0505,07-806-1473,http://www.nkuht.edu.tw/
+39,0048,公立,一般大學,國立金門大學,National Quemoy University,校長,陳建民,金門縣,金寧鄉,89250,金門縣金寧鄉大學路1號,082-313-300,082-313-304,http://www.nqu.edu.tw
+40,0049,公立,一般大學,國立臺灣體育運動大學,National Taiwan University of Sport,校長,林華韋,臺中市,北　區,40404,臺中市北區雙十路1段16號,04-2221-3108,04-2223-2463,http://www.ntupes.edu.tw
+41,0050,公立,技專校院,國立臺中科技大學,National  Taichung University Of  Science And Technology,校長,謝俊宏,臺中市,北區,40401,臺中巿北區三民路三段129號,04-2219-5678,04-2219-5011,http://www.nutc.edu.tw/
+42,0051,公立,技專校院,國立臺北商業大學,National Taipei University of  Business,校長,張瑞雄,臺北市,中正區,10051,臺北市中正區濟南路一段321號,02-3322-2777,02-2322-6109,http://WWW.NTUB.EDU.TW
+43,0052,公立,一般大學,國立屏東大學,National Pingtung University,校長,古源光,屏東縣,屏東市,90003,屏東市民生路4-18號,08-766-3800,08-723-4406,http://www.nptu.edu.tw
+44,0053,公立,技專校院,國立高雄科技大學,National Kaohsiung University of Science and Technology,校長,楊慶煜,高雄市,三民區,80778,高雄市三民區建工路415號,07-381-4526,07-383-8435,http://www.nkust.edu.tw/
+45,0144,公立,技專校院,國立臺灣戲曲學院,National Taiwan College of Performing Arts,校長,劉晉立,臺北市,內湖區,11464,臺北市內湖區內湖路二段177號,02-2796-2666,02-2794-1529,http://WWW.TCPA.EDU.TW
+46,0221,公立,技專校院,國立臺南護理專科學校,National Tainan Junior College of Nursing,校長,黃美智,臺南市,中西區,70043,臺南市中西區民族路二段78號,06-211-0600,06-241-1065,http://WWW.NTIN.EDU.TW/
+47,0222,公立,技專校院,國立臺東專科學校,National Taitung Junior College,校長,王俊勝,臺東縣,臺東市,95045,台東縣台東市正氣北路911號,089-226-389,089-225-185,http://WWW.NTC.EDU.TW
+48,0A01,公立,空中大學,國立空中大學,National Open University,校長,陳松柏,新北市,蘆洲區,24701,新北市蘆洲區中正路 172 號,02-2282-9355,02-2288-6061,http://www.nou.edu.tw/
+49,1001,私立,一般大學,東海大學,Tunghai University,校長,王茂駿,臺中市,西屯區,40704,臺中市西屯區臺灣大道4段1727號,04-2359-0121,04-2350-0847,http://www.thu.edu.tw
+50,1002,私立,一般大學,輔仁大學,Fu Jen Catholic University,校長,江漢聲,新北市,新莊區,24205,新北市新莊區中正路510號,02-2905-2000,02-2903-9809,http://www.fju.edu.tw
+51,1003,私立,一般大學,東吳大學,Soochow University,校長,潘維大,臺北市,士林區,11102,臺北市士林區臨溪路70號,02-2881-9471,02-2882-1522,http://www.scu.edu.tw
+52,1004,私立,一般大學,中原大學,Chung Yuan Christian University,校長,張光正,桃園市,中壢區,32023,桃園市中壢區中北路200號,03-265-9999,03-265-8888,http://www.cycu.edu.tw
+53,1005,私立,一般大學,淡江大學學校財團法人淡江大學,Tamkang University,校長,葛煥昭,新北市,淡水區,25137,新北市淡水區英專路151號,02-2621-5656,02-2622-3204,http://www.tku.edu.tw
+54,1006,私立,一般大學,中國文化大學,Chinese Culture University,校長,徐興慶,臺北市,士林區,11114,臺北市士林區華岡路55號,02-2861-0511,02-2861-5031,http://www.pccu.edu.tw
+55,1007,私立,一般大學,逢甲大學,Feng Chia University,校長,李秉乾,臺中市,西屯區,40724,臺中市西屯區文華路100號,04-2451-7250,04-2451-0081,http://www.fcu.edu.tw/wSite/mp?mp=1
+56,1008,私立,一般大學,靜宜大學,PROVIDENCE UNIVERSITY,校長,唐傳義,臺中市,沙鹿區,43301,臺中市沙鹿區中棲路200號(臺中市沙鹿區臺灣大道7段200號),04-2632-8001,04-2631-1170,http://www.pu.edu.tw
+57,1009,私立,一般大學,長庚大學,Chang Gung University,校長,包家駒,桃園市,龜山區,33302,桃園市龜山區文化一路259號,03-211-8800,03-211-8700,http://www.cgu.edu.tw
+58,1010,私立,一般大學,元智大學,Yuan Ze University,校長,吳志揚,桃園市,中壢區,32003,桃園市中壢區遠東路135號,03-463-8800,03-463-8900,http://www.yzu.edu.tw
+59,1011,私立,一般大學,中華大學學校財團法人中華大學,Chung Hua University,校長,劉維琪,新竹市,新竹市,30012,新竹市東香里六鄰五福路2段707號,03-537-4281,03-537-3771,http://www.chu.edu.tw
+60,1012,私立,一般大學,大葉大學,Da-Yeh University,校長,梁卓中,彰化縣,大村鄉,51591,彰化縣大村鄉學府路168號,04-851-1888,04-851-1666,http://www.dyu.edu.tw
+61,1013,私立,一般大學,華梵大學,Huafan University,校長,李天任,新北市,石碇區,22301,新北市石碇區華梵路1號,02-2663-2102,02-2663-3234,http://www.hfu.edu.tw
+62,1014,私立,一般大學,義守大學,I-Shou University,校長,陳振遠,高雄市,大樹區,84001,高雄市大樹區學城路1段1號,07-657-7711,07-657-7056,http://www.isu.edu.tw
+63,1015,私立,一般大學,世新大學,Shih Hsin University,校長,吳永乾,臺北市,文山區,11604,臺北市文山區木柵路1段17巷1號,02-2236-8225,02-2236-5133,http://www.shu.edu.tw
+64,1016,私立,一般大學,銘傳大學,Ming Chuan University,校長,沈佩蒂,臺北市,士林區,11103,臺北市士林區中山北路5段250號,02-2882-4564,02-2882-0521,http://web.mcu.edu.tw/
+65,1017,私立,一般大學,實踐大學,Shih Chien University,校長,丁斌首,臺北市,中山區,10462,臺北市中山區大直街70號,02-2538-1111,02-2533-6293,http://www.usc.edu.tw
+66,1018,私立,技專校院,朝陽科技大學,Chaoyang University of Technology,校長,鄭道明,臺中市,霧峰區,41349,臺中市霧峰區吉峰東路168號,04-2332-3000,04-2332-9898,http://www.cyut.edu.tw/
+67,1019,私立,一般大學,高雄醫學大學,Kaohsiung Medical University,校長,鐘育志,高雄市,三民區,80708,高雄市三民區十全一路100號,07-312-1101,07-321-2062,https://www.kmu.edu.tw/
+68,1020,私立,一般大學,南華大學,Nanhua university,校長,林聰明,嘉義縣,大林鎮,62248,嘉義縣大林鎮中坑里10鄰南華路1段55號,05-272-1001,05-242-7147,http://www.nhu.edu.tw
+69,1021,私立,一般大學,真理大學,Aletheia University,校長,陳奇銘,新北市,淡水區,25103,新北市淡水區真理街32號,02-2621-2121,02-2623-5533,http://www.au.edu.tw
+70,1022,私立,一般大學,大同大學,Tatung University,校長,何明果,臺北市,中山區,10452,臺北市中山北路3段40號,02-2182-2928,02-2585-5911,http://www.ttu.edu.tw
+71,1023,私立,技專校院,南臺學校財團法人南臺科技大學,Southern Taiwan University of Science and Technology,校長,盧燈茂,臺南市,永康區,71005,臺南市永康區南臺街1號,06-253-3131,06-254-3031,http://www.stust.edu.tw
+72,1024,私立,技專校院,崑山科技大學,Kun Shan University,校長,李天祥,臺南市,永康區,71070,臺南市永康區崑大路195號,06-272-7175,06-205-9929,http://www.ksu.edu.tw/
+73,1025,私立,技專校院,嘉藥學校財團法人嘉南藥理大學,Chia Nan University of Pharmacy & Science,校長,李孫榮,臺南市,仁德區,71710,臺南市仁德區二仁路一段60號,06-266-4911,06-266-8920,http://www.cnu.edu.tw
+74,1026,私立,技專校院,樹德科技大學,Shu-Te University,校長,陳清燿,高雄市,燕巢區,82445,高雄市燕巢區橫山路59號,07-615-8000,07-615-8999,http://www.stu.edu.tw/
+75,1027,私立,一般大學,慈濟學校財團法人慈濟大學,Tzu Chi University,校長,劉怡均,花蓮縣,花蓮市,97004,花蓮市中央路3段701號,03-856-5301,03-856-2500,http://www.tcu.edu.tw
+76,1028,私立,一般大學,臺北醫學大學,Taipei Medical University,校長,林建煌,臺北市,信義區,11031,臺北市信義區吳興街250號,02-2736-1661,02-2378-7795,http://www.tmu.edu.tw
+77,1029,私立,一般大學,中山醫學大學,CHUNG SHAN MEDICAL UNIVERSITY,校長,黃建寧,臺中市,南　區,40201,臺中市南區建國北路1段110號,04-2473-0022,04-2475-9950,http://www.csmu.edu.tw
+78,1030,私立,技專校院,龍華科技大學,Lunghwa University of Science and Technology,校長,葛自祥,桃園市,龜山區,33306,桃園市龜山區萬壽路一段300號,02-8209-3211,02-8209-4650,http://www.lhu.edu.tw
+79,1031,私立,技專校院,輔英科技大學,Fooyin University,校長,顧志遠,高雄市,大寮區,83102,高雄市大寮區進學路151號,07-781-1151,07-782-8805,http://www.fy.edu.tw
+80,1032,私立,技專校院,明新學校財團法人明新科技大學,Minghsin University of Science and Technology,校長,劉國偉,新竹縣,新豐鄉,30401,新竹縣新豐鄉新興路1號,03-559-3142,03-559-5142,http://www.must.edu.tw/index.html
+81,1033,私立,一般大學,長榮大學,Chang Jung Christian University,校長,李泳龍,臺南市,歸仁區,71101,臺南市歸仁區長大路1號,06-278-5123,06-278-5555,http://www.cjcu.edu.tw
+82,1034,私立,技專校院,弘光科技大學,Hungkuang University,校長,黃月桂,臺中市,沙鹿區,43302,臺中市沙鹿區晉江里臺灣大道六段1018號,04-2631-8652,04-2631-0744,http://www.hk.edu.tw
+83,1035,私立,一般大學,中國醫藥大學,CHINA MEDICAL UNIVERSITY,校長,洪明奇,臺中市,北　區,40402,臺中市北區學士路91號,04-2205-3366,04-2206-0248,http://www.cmu.edu.tw
+84,1036,私立,技專校院,健行學校財團法人健行科技大學,Chien Hsin University of Science and Technology,校長,李大偉,桃園市,中壢區,32097,桃園市中壢區健行路229號,03-458-1196,無,http://WWW.UCH.EDU.TW/
+85,1037,私立,技專校院,正修學校財團法人正修科技大學,Cheng Shiu University,校長,龔瑞璋,高雄市,鳥松區,83347,高雄市鳥松區澄清路840號,07-735-8800,07-731-5367,http://WWW.CSU.EDU.TW/
+86,1038,私立,技專校院,萬能學校財團法人萬能科技大學,Vanung University,校長,莊暢,桃園市,中壢區,32061,桃園市中壢區萬能路1號,03-451-5811,03-451-3786,http://www.vnu.edu.tw/
+87,1039,私立,一般大學,玄奘大學,Hsuan Chuang University,校長,簡紹琦,新竹市,新竹市,30092,新竹市香山區玄奘路48號,03-530-2255,03-539-1226,http://www.hcu.edu.tw
+88,1040,私立,技專校院,建國科技大學,Chienkuo Technology University,校長,江金山,彰化縣,彰化市,50094,彰化縣彰化市介壽北路1號,04-711-1111,04-711-1171,http://www.ctu.edu.tw/
+89,1041,私立,技專校院,明志科技大學,Ming Chi University of Technology,校長,劉祖華,新北市,泰山區,24301,新北市泰山區貴子里工專路84號,02-2908-9899,02-2904-1914,http://www.mcut.edu.tw
+90,1042,私立,技專校院,高苑科技大學,Kao Yuan University,校長,趙必孝,高雄市,路竹區,82151,高雄市路竹區中山路1821號,07-607-7777,07-607-7788,http://www.kyu.edu.tw/kyunew4/index3.html
+91,1043,私立,技專校院,大仁科技大學,Tajen University,校長,郭代璜,屏東縣,鹽埔鄉,90741,屏東縣鹽埔鄉維新路20號,08-762-4002,08-762-3924,http://www.tajen.edu.tw/
+92,1044,私立,技專校院,聖約翰科技大學,St. John’s University,校長,黃宏斌,新北市,淡水區,25135,新北市淡水區淡金路四段499號,02-2801-3131,02-2801-3021,http://www.sju.edu.tw
+93,1045,私立,技專校院,嶺東科技大學,Ling Tung University,校長,趙志揚,臺中市,南屯區,40852,臺中市南屯區嶺東路1號,04-2389-2088,04-2389-5293,http://www.ltu.edu.tw/
+94,1046,私立,技專校院,中國科技大學,China University of Technology,校長,唐彥博,臺北市,文山區,11695,臺北市文山區興隆路三段56號,02-2931-3416,02-8931-8847,http://www.cute.edu.tw/
+95,1047,私立,技專校院,中臺科技大學,Central Taiwan University of Science and Technology,校長,陳錦杏代理,臺中市,北屯區,40601,台中市北屯區廍子路666號,04-2239-1647,04-2239-5751,http://www.ctust.edu.tw/
+96,1048,私立,一般大學,亞洲大學,Asia University,校長,蔡進發,臺中市,霧峰區,41354,臺中市霧峰區柳豐路500號,04-2332-3456,04-2331-6699,http://www.asia.edu.tw
+97,1049,私立,一般大學,開南大學,Kainan University,校長,梁榮輝,桃園市,蘆竹區,33857,桃園市蘆竹區開南路1號,03-341-2500,"03-341-2897
+#1710",http://www.knu.edu.tw
+98,1050,私立,一般大學,佛光大學,Fo Guang University,校長,楊朝祥,宜蘭縣,礁溪鄉,26247,宜蘭縣礁溪鄉林美村林尾路160號,03-987-1000,03-987-4815,http://www.fgu.edu.tw
+99,1051,私立,技專校院,台南家專學校財團法人台南應用科技大學,Tainan School of Home Economics Foundation at Tainan University of Technology,校長,黃宗成,臺南市,永康區,71002,臺南市永康區中正路529號,06-253-2106,06-254-9527,http://www.tut.edu.tw
+100,1052,私立,技專校院,遠東科技大學,Far East University,校長,王元仁,臺南市,新市區,74448,臺南市新市區中華路49號,06-597-9566,06-597-7050,http://WWW.FEU.EDU.TW/WEB/
+101,1053,私立,技專校院,光宇學校財團法人元培醫事科技大學,Yuanpei University of Medical Technology,校長,林志城,新竹市,香山區,30015,新竹市元培街306號,03-538-1183,03-538-5353,http://WWW.YPU.EDU.TW
+102,1054,私立,技專校院,景文科技大學,Jinwen University of Science and Technology,校長,洪久賢,新北市,新店區,23154,新北市新店區安忠路99號,02-8212-2000,02-8212-2199,http://WWW.JUST.EDU.TW/
+103,1055,私立,技專校院,中華醫事科技大學,Chung Hwa University of Medical Technology,校長,曾信超,臺南市,仁德區,71703,臺南市仁德區文華一街89號,06-267-1214,06-335-6723,https://www.hwai.edu.tw/index.php
+104,1056,私立,技專校院,東南科技大學,Tungnan University,校長,李清吟,新北市,深坑區,22202,新北市深坑區北深路三段152號,02-8662-5859,02-2662-4052,http://www.tnu.edu.tw/
+105,1057,私立,技專校院,德明財經科技大學,Takming University of Science and Technology,校長,徐守德代理,臺北市,內湖區,11451,臺北市內湖區環山路一段56號,02-2658-5801,02-2658-2507,http://WWW.TAKMING.EDU.TW/
+106,1058,私立,一般大學,明道學校財團法人明道大學,MINGDAO UNIVERSITY,校長,郭秋勳代理,彰化縣,埤頭鄉,52345,彰化縣埤頭鄉文化路369號,04-887-6660,04-887-2271,http://www.mdu.edu.tw
+107,1060,私立,技專校院,南開科技大學,Nan Kai University of Technology,校長,許聰鑫,南投縣,草屯鎮,54243,南投縣草屯鎮中正路568號,049-256-3489,049-256-1443,http://www.nkut.edu.tw
+108,1061,私立,技專校院,中華學校財團法人中華科技大學,China University of Science and Technology,校長,郭承亮,臺北市,南港區,11581,臺北市南港區研究院路三段245號,02-2782-1862,02-2788-9145,http://www.cust.edu.tw
+109,1062,私立,技專校院,僑光科技大學,Overseas Chinese University,校長,余致力,臺中市,西屯區,40721,臺中市西屯區僑光路100號,04-2701-6855,04-2707-5420,https://www.ocu.edu.tw/index.php
+110,1063,私立,技專校院,廣亞學校財團法人育達科技大學,Yu Da University of Science and Technology,校長,黃榮鵬,苗栗縣,造橋鄉,36143,苗栗縣造橋鄉談文村學府路168號,037-651-188,037-651-201,http://www.ydu.edu.tw
+111,1064,私立,技專校院,美和學校財團法人美和科技大學,Meiho University,校長,翁順祥,屏東縣,內埔鄉,91202,屏東縣內埔鄉美和村屏光路23號,08-779-9821,08-779-9711,http://www.meiho.edu.tw/
+112,1065,私立,技專校院,吳鳳科技大學,WuFeng University,校長,蔡宏榮,嘉義縣,民雄鄉,62153,嘉義縣民雄鄉建國路二段117號,05-226-7125,05-206-3455,http://www.wfu.edu.tw/
+113,1066,私立,技專校院,環球學校財團法人環球科技大學,TransWorld University,校長,沈健華,雲林縣,斗六市,64063,雲林縣斗六市嘉東里鎮南路1221號,05-537-0988,05-537-0989,http://WWW.TWU.EDU.TW/
+114,1067,私立,一般大學,台灣首府學校財團法人台灣首府大學,Taiwan Shoufu University,校長,戴文雄,臺南市,麻豆區,72153,臺南市麻豆區南勢里168號,06-571-8888,06-572-2858,http://www.tsu.edu.tw
+115,1068,私立,技專校院,中州學校財團法人中州科技大學,Chung Chou University of Science and Technology,校長,黃思倫,彰化縣,員林市,51003,彰化縣員林市山腳路三段2巷6號,04-835-9000,04-831-4515,http://WWW.CCUT.EDU.TW
+116,1069,私立,技專校院,修平學校財團法人修平科技大學,Hsiuping University of Science and Technology,校長,陳建勝,臺中市,大里區,41280,臺中市大里區工業路11號,04-2496-1100,04-2496-1187,http://www.hust.edu.tw/
+117,1070,私立,技專校院,長庚學校財團法人長庚科技大學,Chang Gung University of Science and Technology,校長,樓迎統,桃園市,龜山區,33303,桃園市龜山區文化一路261號,03-211-8999,03-211-8866,http://www.cgust.edu.tw
+118,1071,私立,技專校院,城市學校財團法人臺北城市科技大學,Taipei City University of Science and Technology,校長,胡宇正代理,臺北市,北投區,11202,臺北市北投區學園路2號,02-2892-7154,02-2896-5951,http://www.tpcu.edu.tw/bin/home.php
+119,1072,私立,技專校院,大華學校財團法人敏實科技大學,Minth University of Science and Technology,校長,王慧君代理,新竹縣,芎林鄉,30740,新竹縣芎林鄉大華路1號,03-592-7700,03-592-6006,http://WWW.MITUST.EDU.TW/
+120,1073,私立,技專校院,醒吾學校財團法人醒吾科技大學,Hsing Wu University of Science and Technology,校長,陳義文,新北市,林口區,24452,新北市林口區粉寮路一段101號,02-2601-5310,02-2601-0748,http://WWW.HWU.EDU.TW
+121,1075,私立,技專校院,文藻學校財團法人文藻外語大學,Wenzao Ursuline University of Languages,校長,陳美華,高雄市,三民區,80793,高雄市三民區民族一路900號,07-342-6031,07-342-7942,http://www.wzu.edu.tw/
+122,1076,私立,技專校院,華夏學校財團法人華夏科技大學,Hwa Hsia University of Technology,校長,陳錫圭,新北市,中和區,23568,新北市中和區工專路111號,02-8941-5100,02-2941-5730,http://www.hwh.edu.tw/bin/hwhhome.php
+123,1077,私立,技專校院,慈濟學校財團法人慈濟科技大學,Tzu Chi University of Science and Technology,校長,羅文瑞,花蓮縣,花蓮市,97005,花蓮市建國路二段880號,03-857-2158,03-857-7261,http://www.tcust.edu.tw/bin/home.php
+124,1078,私立,技專校院,致理學校財團法人致理科技大學,Chihlee University of Technology,校長,陳珠龍,新北市,板橋區,22050,新北市板橋區文化路1段313號,02-2257-6167,02-2258-3710,http://WWW.CHIHLEE.EDU.TW
+125,1079,私立,一般大學,康寧學校財團法人康寧大學,University of Kang Ning,校長,吳政達,臺北市,內湖區,11485,台北市內湖區康寧路三段75巷137號,02-2632-1181,02-2632-8744,http://www.ukn.edu.tw
+126,1080,私立,技專校院,宏國學校財團法人宏國德霖科技大學,Hungkuo Delin University of Technology,校長,張遵偉代理,新北市,土城區,23654,新北市土城區青雲路380巷1號,02-2273-3567,02-2273-3995,http://www.hdut.edu.tw/
+127,1081,私立,技專校院,東方學校財團法人東方設計大學,TungFang Design University,校長,葉榮椿,高雄市,湖內區,82941,高雄市湖內區東方路110號,07-693-2011,07-693-1611,http://www.tf.edu.tw/tw/
+128,1082,私立,技專校院,崇右學校財團法人崇右影藝科技大學,Chungyu University of Film and Arts,校長,俞維昇,基隆市,信義區,20103,基隆市信義區義七路40號,02-2423-7785,02-2429-3639,http://www.cufa.edu.tw
+129,1083,私立,技專校院,台北海洋學校財團法人台北海洋科技大學,Taipei University of Marine Technology,校長,林俊彥,新北市,淡水區,25172,新北市淡水區濱海路三段150號,02-2805-9999,02-2805-2796,https://www.tumt.edu.tw/
+130,1125,私立,一般大學,中信金融管理學院,CTBC Business School,校長,施光訓,臺南市,安南區,70963,臺南市安南區台江大道3段600號,06-287-3335,06-287-3536,http://www.ctbc.edu.tw/
+131,1148,私立,技專校院,大漢技術學院,Dahan Institute of Technology,校長,宋佩瑄,花蓮縣,新城鄉,97145,花蓮縣新城鄉大漢村樹人街1號,03-821-0888,03-826-2916,http://www.dahan.edu.tw
+132,1159,私立,技專校院,和春技術學院,Fortune Institute of Technology,校長,林裕益(代理),高雄市,大寮區,83160,高雄市大寮區琉球里至學路288號,07-262-1941,07-788-4341,http://www.fotech.edu.tw
+133,1166,私立,技專校院,亞東技術學院,Oriental Institute of Technology,校長,黃茂全,新北市,板橋區,22061,新北市板橋區四川路二段58號,02-7738-8000,02-7738-2678,http://www.oit.edu.tw/bin/home.php
+134,1168,私立,技專校院,南亞科技學校財團法人南亞技術學院,Nanya Institute of Technology,校長,簡仁德,桃園市,中壢區,32091,桃園市中壢區中山東路三段414號,03-436-1070,03-438-8198,http://www.nanya.edu.tw
+135,1176,私立,一般大學,稻江科技暨管理學院,TOKO  UNIVERSITY,校長,洪大安代理,嘉義縣,朴子市,61363,嘉義縣朴子市學府路2段51號,05-362-2889,05-362-0707,http://www.toko.edu.tw
+136,1182,私立,技專校院,蘭陽技術學院,Lan Yang Institute of Technology,校長,翁順裕,宜蘭縣,頭城鎮,26141,宜蘭縣頭城鎮復興路79號,03-977-1997,03-978-9899,http://WWW.FIT.EDU.TW/
+137,1183,私立,技專校院,黎明技術學院,Lee-Ming Institute of Technology,校長,林明芳,新北市,泰山區,24305,新北市泰山區泰林路三段22號,02-2909-7811,02-2296-8589,http://WWW.LIT.EDU.TW/
+138,1185,私立,技專校院,經國管理暨健康學院,CHING KUO INSTITUTE OF MANAGEMENT AND HEALTH,校長,邱明源,基隆市,中山區,20301,基隆市中山區復興路336號,02-2437-2093,02-2437-6209,http://WWW.CKU.EDU.TW
+139,1188,私立,技專校院,大同技術學院,Tatung Institute of Technology,校長,王榮聖,嘉義市,東區,60005,嘉義市東區彌陀路253號,05-222-3124,05-225-2393,http://www.ttc.edu.tw/
+140,1192,私立,技專校院,臺灣觀光學院,The Culinary Institute of Taiwan,校長,何曜琛,花蓮縣,壽豐鄉,97448,花蓮縣壽豐鄉豐山村中興街268號,03-865-3906,03-865-3910,http://www.cit.edu.tw
+141,1195,私立,一般大學,馬偕學校財團法人馬偕醫學院,MacKay Medical College,校長,李居仁,新北市,三芝區,25245,新北市三芝區中正路3段46號,02-2636-0303,02-2636-1134,http://www.mmc.edu.tw
+142,1196,私立,一般大學,法鼓學校財團法人法鼓文理學院,Dharma Drum Institute of Liberal Art,校長,郭敏芳(釋惠敏),新北市,金山區,20842,新北市金山區西湖里法鼓路700號,02-2498-0707,02-2408-2317,http://www.dila.edu.tw/
+143,1282,私立,技專校院,馬偕學校財團法人馬偕醫護管理專科學校,"MacKay Junior College of Medicine, Nursing, and Management",校長,陳裕仁,新北市,三芝區,25245,新北市三芝區中正路三段92號,02-2636-6799,02-2636-8123,http://www.mkc.edu.tw/
+144,1283,私立,技專校院,仁德醫護管理專科學校,"Jen-Teh Junior College of Medicine, Nursing and Management",校長,黃柏翔,苗栗縣,後龍鎮,35664,苗栗縣後龍鎮溪洲里7鄰砂崙湖79-9號,037-728-855,037-730-936,http://www.jente.edu.tw/
+145,1284,私立,技專校院,樹人醫護管理專科學校,Shu-Zen Junior College of Medicine and Management,校長,郭啟東,高雄市,路竹區,82144,高雄市路竹區環球路452號,07-697-9333,07-697-9697,http://WWW.SZMC.EDU.TW/
+146,1285,私立,技專校院,慈惠醫護管理專科學校,TZU HUI Institute of Technology,校長,張鳳祥代理,屏東縣,南州鄉,92641,屏東縣南州鄉三民路367號,08-864-7367,08-864-7123,http://WWW.TZUHUI.EDU.TW/
+147,1286,私立,技專校院,耕莘健康管理專科學校,Cardinal Tien Junior College of Healthcare And Management,校長,林淑玟,新北市,新店區,23143,新北市新店區民族路112號,02-2219-1131,02-2219-7718,http://www.ctcn.edu.tw
+148,1287,私立,技專校院,敏惠醫護管理專科學校,Min-Hwei Junior College of Health Care Management,校長,葉至誠,臺南市,柳營區,73658,臺南市柳營區中山東路二段1116號,06-622-6111,06-622-6367,http://WWW.MHCHCM.EDU.TW/
+149,1289,私立,技專校院,育英醫護管理專科學校,Yuh-Ing Junior College of Health Care & Management,校長,蔡榮順,高雄市,三民區,80776,高雄市三民區大昌二路420巷15號,07-381-1765,07-381-1112,http://WWW.YUHING.EDU.TW/
+150,1291,私立,技專校院,聖母醫護管理專科學校,"St. Mary&acute;s Junior College of Medicine, Nursing and Management",校長,許壬榮,宜蘭縣,三星鄉,26647,宜蘭縣三星鄉三星路二段265巷100號,03-989-7396,03-989-7386,http://WWW.SMC.EDU.TW
+151,1292,私立,技專校院,新生醫護管理專科學校,Hsin Sheng Junior College of Medical Care and Management,校長,駱俊宏,桃園市,龍潭區,32544,桃園市龍潭區中豐路高平段418號,03-411-7578,03-411-7600,http://WWW.HSC.EDU.TW
+152,1293,私立,技專校院,崇仁醫護管理專科學校,"Chung-Jen Junior College of Nursing, Health Sciences and Management",校長,周立?,嘉義縣,大林鎮,62241,嘉義縣大林鎮湖北里大湖1之10號,05-265-8880,05-265-8913,http://WWW.CJC.EDU.TW/
+153,1R02,私立,宗教研修學院,學校財團法人中華浸信會基督教台灣浸會神學院,TAIWAN BAPTIST CHRISTIAN SEMINARY,校長,蔡瑞益,臺北市,信義區,11045,臺北市吳興街394巷1號,02-2723-9500,02-2722-4646,http://www.tbts.edu.tw/
+154,1R03,私立,宗教研修學院,臺北基督學院,Christ''s College Taipei,校長,吳呈祥,新北市,淡水區,25162,新北市淡水區自強路51號,02-2809-7661,02-2809-6631,http://www.cct.edu.tw
+155,1R04,私立,宗教研修學院,財團法人一貫道天皇基金會一貫道天皇學院,I-Kuan Tao College,校長,李玉柱,高雄市,六龜區,84442,高雄市六龜區新寮里三民路81號,07-687-2129,07-687-1938,http://www.iktc.edu.tw/
+156,1R05,私立,宗教研修學院,台神學校財團法人台灣神學研究學院,Taiwan Graduate School of Theology,校長,蔡慈倫,臺北市,士林區,11149,台北市士林區仰德大道二段二巷20號,02-2882-2370,02-2881-6940,http://www.tgst.edu.tw
+157,1R06,私立,宗教研修學院,一貫道崇德學院,i.k.t chong-de school,校長,陸隆吉,南投縣,埔里鎮,54552,南投縣埔里鎮鯉魚路25-8號,049-298-8675,049-298-9314,http://www.iktcds.edu.tw/
+158,1R07,私立,宗教研修學院,台灣基督長老教會南神神學院,Tainan Theological College,校長,王崇堯,臺南市,東　區,70142,臺南市東區東門路一段117號,06-237-1291,06-234-6060,http://www.ttcs.edu.tw/
+159,3002,公立,一般大學,臺北市立大學,University of Taipei,校長,戴遐齡,臺北市,中正區,10048,臺北市中正區愛國西路1號,02-2311-3040,02-2381-4067,http://www.utaipei.edu.tw/
+160,3A01,公立,空中大學,高雄市立空中大學,Open University of Kaohsiung,校長,劉嘉茹,高雄市,小港區,81249,高雄市小港區大業北路436號,07-801-2008,07-806-6725,http://www.ouk.edu.tw
